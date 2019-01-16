@@ -1,0 +1,84 @@
+/* Name: Tara France
+*  Date: January 18, 2018
+*  Lab: C13 Fixed Layout Exercise */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1000px;
+    background-color: lightblue;
+    margin: 15px auto;
+    border: 5px solid lightpink;
+    font-family: "Lucida Console", "Bradley Hand", Optima; }
+
+h1 { padding: 10px; }
+
+#sidebarA {float: left;
+            width: 20%;
+            padding: 15px;
+            background-color: lightgoldenrodyellow; }
+
+
+header { border-bottom: 2px solid pink;
+         text-align: center;}
+
+main { width: 40%;
+       float: left;
+       padding: 15px; }
+
+#sidebarB { width: 30%;
+            float: right;
+            padding: 15px;
+            background-color: lightgoldenrodyellow; }
+
+li {list-style-type: none;}
+
+footer { clear: both;
+         border-top: 2px solid ; }
+
+#bethanyhamilton1 { width: 150px;
+                   height: 150px;
+                   float: left;
+                   margin: 10px;
+                    background-color: lightgoldenrodyellow; }
+
+#bethanyhamilton2 {width: 200px;
+                   height: 150px;
+                   float: left;
+                   margin: 10px 10px;
+                    padding-bottom: 25px;
+                   background-color: lightgoldenrodyellow; 
+                    border-bottom: 5px solid lightblue;}
+
+#quote { text-align: center; 
+        color: navy;
+        font-size: 16pt; }
+#shark { width: 200px;
+        height: 150px; 
+        float: right;
+        margin: 10px; 
+        background-color: lightblue;}
+
+#disclaimer { color: red;
+              text-align: right; }
+
+#family {width: 250px;
+         height: 200px; 
+         float: left;
+         margin: 10px; 
+         background-color: lightblue; }
+h4 { text-decoration-line: underline;}
+section { clear:both; }
+#rolemodel {height: 200px;
+            width: 250px; 
+            float: left;
+            margin: 10px;
+            background-color: lightblue; }
+#Screenshot {height: 200px;
+            width: 250px; 
+            float: right;
+            margin: 10px;
+            background-color: lightblue;}
